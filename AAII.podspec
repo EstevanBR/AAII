@@ -27,9 +27,9 @@ Pod::Spec.new do |s|
   #
 s.name          = "AAII"
 #s.version      = "INITIAL_VERSION OR TAG"
-s.version       = "0.0.1"
+s.version       = "0.0.2"
 s.summary       = "AAII is a framework"
-s.homepage      = "https://gitlab.com/YOUR_USER_NAME"
+s.homepage      = "http://github.com/EstevanBR"
 s.description   = "AAII is a swift framework which injects accessibility identifiers into UIViewControllers and UIViews"
 s.license       = "MIT"
 s.author        = { "Estevan" => "estevan@bluerocket.us" }
