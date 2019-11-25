@@ -6,10 +6,8 @@ This is an extension of UIView and UIViewController which automatically injects 
 - custom views connected via IBOutlets.
 - a UIView (including UITableView cell)
 
+
 if you call `injectAccessibilityIdentifiers(customPrefixChain:[String], replaceExisting:Bool)` on a `UIView` or `UIViewController` object.
-
-
-
 
 ## Custom Prefix for accessibility identifiers
 - `customPrefixChain` defaults to `[]`, this is useful if, for example, you have many different `UITableViewCell` cells in a `UITableView`, but they are not derived classes of `UITableViewCell`, you can assign a custom prefix.
@@ -21,7 +19,6 @@ You can call `injectAccessibilityIdentifiers` with `replaceExisting:false` like 
 injectAccessibilityIdentifiers(replaceExisting:false)
 ```
 to only assign an `accessibilityIdentifier` to objects if the value is unassigned (`nil`). This is helpful if you already have existing accessibility identifiers that you don't want AAII to interfere with.
-
 
 ## UIViewController Example
 ```swift
