@@ -16,25 +16,33 @@
 		<data>
 		eq/kjxmVxEwDJBVXogAu5V6oCn8=
 		</data>
+		<key>LICENSE</key>
+		<data>
+		q12KSKWSp3DQE9RPq2N5KREE0GU=
+		</data>
 		<key>Modules/AAII.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		+6m9NgnXT7SNIGFBLmLUucD/Z0Y=
+		iC1YCFU9t/gTNIR6Xff2Zm+0JHw=
 		</data>
 		<key>Modules/AAII.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		5nBe69FrzUilYnSYLYu6SeuZ0Xc=
+		7ZrVHDZCFn4aeo5KBhmiQAGFfqI=
 		</data>
 		<key>Modules/AAII.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		+6m9NgnXT7SNIGFBLmLUucD/Z0Y=
+		iC1YCFU9t/gTNIR6Xff2Zm+0JHw=
 		</data>
 		<key>Modules/AAII.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		5nBe69FrzUilYnSYLYu6SeuZ0Xc=
+		7ZrVHDZCFn4aeo5KBhmiQAGFfqI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		wpcHYNQQx0yUdaWVFAsUnUL6H3U=
+		</data>
+		<key>README.md</key>
+		<data>
+		Su4OCsrI73bs4mKm+0V3u0TBtpo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -53,32 +61,39 @@
 			L5rpM/EkUfSe+gWFwyQW3NRzc5s/o/9eCXFd45rpf+Q=
 			</data>
 		</dict>
+		<key>LICENSE</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mtOXBKfLKJmt5khXYELKL04DnAvWhuv0WkVzpUtGEsw=
+			</data>
+		</dict>
 		<key>Modules/AAII.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VLZid86KRsoNAem/sgqDp12aFc1LJWoJ+Q6NiwxsSjU=
+			/BBfb9mNgBY2mt21c7yLoM3bRmBdY4riJlYPta3toOE=
 			</data>
 		</dict>
 		<key>Modules/AAII.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dE575BG2JVUQr71N4ksO1CUfK3tsfIGyb8ani/ZIYXg=
+			irhpTXKHQzs1EbELojSasypwZTtI/lHuFHYQbsmVoAg=
 			</data>
 		</dict>
 		<key>Modules/AAII.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VLZid86KRsoNAem/sgqDp12aFc1LJWoJ+Q6NiwxsSjU=
+			/BBfb9mNgBY2mt21c7yLoM3bRmBdY4riJlYPta3toOE=
 			</data>
 		</dict>
 		<key>Modules/AAII.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dE575BG2JVUQr71N4ksO1CUfK3tsfIGyb8ani/ZIYXg=
+			irhpTXKHQzs1EbELojSasypwZTtI/lHuFHYQbsmVoAg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -86,6 +101,13 @@
 			<key>hash2</key>
 			<data>
 			KNbp3ZrDeVldJkqTzPwrmFc4tzsQz/CcfmBrixwz4H4=
+			</data>
+		</dict>
+		<key>README.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eXBnJ/pFQ/0mVoAggbuSKcyjjqD22DWzSkJtRu9/7XM=
 			</data>
 		</dict>
 	</dict>
