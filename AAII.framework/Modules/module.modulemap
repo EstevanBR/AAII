@@ -1,0 +1,11 @@
+framework module AAII {
+  umbrella header "AAII.h"
+
+  export *
+  module * { export * }
+}
+
+module AAII.Swift {
+    header "AAII-Swift.h"
+    requires objc
+}
